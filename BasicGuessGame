@@ -1,0 +1,48 @@
+import random
+
+
+words = ['plane', 'car', 'house', 'lamp',
+         'game', 'java', 'table', 'mobile',
+         'mouse', 'lion', 'boat']
+
+
+word = random.choice(words)
+
+print("Guess the word")
+
+guesses = ''
+lives = 10
+
+while lives > 0:
+
+    failed = 0
+    for c in word:
+
+        if c in guesses:
+            print(c)
+
+        else:
+            print("▃")
+            failed += 1
+
+    if failed == 0:
+        print("You Win")
+
+        print("The word is: ", word)
+        break
+
+    guess = input("Guess a character: ")
+
+    guesses += guess
+
+    if guess not in word:
+
+        lives -= 1
+
+        print("That character isn't in the word, you are wrong.")
+
+
+        print("You have", + lives, 'live(s)')
+
+        if lives == 0:
+            print("You Loose")
