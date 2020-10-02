@@ -1,6 +1,6 @@
 # Friends_Hack
 
-## Explore some awesome projects here : ->
+## Explore some awesome projects by awesome people :-)
 
 ## Steps to contribute :
  (1) Fork the repository
