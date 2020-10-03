@@ -35,6 +35,7 @@ Pull requests should include the following:
 - CPP
 - Python
 - HTML
+- CSS
 - JavaScript
 
 ## Steps to contribute :
