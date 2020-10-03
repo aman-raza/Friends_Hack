@@ -3,6 +3,7 @@
 <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg">
 </p>
 
+
 A community repository to allow enthusiasts and beginners add their projects for [@DigitalOcean's HacktoberFest](https://hacktoberfest.digitalocean.com)
 ## About this Repository:
 
@@ -34,3 +35,11 @@ Pull requests should include the following:
 - CPP
 - Python
 - HTML
+=======
+## Steps to contribute :
+1. Fork the repository
+2. Add a file or make a change
+3. Create a pull request
+4. Wait for the pr to get merged
+
+### If you like this repo, drop a ⭐
