@@ -35,7 +35,8 @@ Pull requests should include the following:
 - CPP
 - Python
 - HTML
-=======
+- JavaScript
+
 ## Steps to contribute :
 1. Fork the repository
 2. Add a file or make a change
