@@ -7,7 +7,7 @@
 A community repository to allow enthusiasts and beginners add their projects for [@DigitalOcean's HacktoberFest](https://hacktoberfest.digitalocean.com)
 ## About this Repository:
 
-This repository allows any Algos to be added! When adding your own Code, place it in a folder within most suitable category. If there are no folder of that category yet, make a new folder and add it there! Making your PR will get your 1 step closer to your free T-Shirt!
+This repository allows any Algos to be added! When adding your own Code, place it in a folder within most suitable category. If there are no folder of that category yet, make a new folder and add it there! Making your PR will get you 1 step towards your way to opensource contribution!
 
 ## What is Hacktoberfest?
 
