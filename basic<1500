@@ -1,0 +1,9 @@
+b=int(input())
+if b<1500:
+  hra=0.1*b
+  d=0.9*b
+elif b>=1500:
+  hra=500
+  d=0.98*b
+g= b+ hra+d
+print(g)
