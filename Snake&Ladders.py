@@ -7,8 +7,8 @@ def play():
     p1=0
     p2=0
     
-    print("Hey!! Lets play a game of Snakes and Ladders today.")
-    print("The ladders are as follows:")
+    print("Hey There!! Lets play a game of Snakes and Ladders ")
+    print("The Ladders are as follows:")
     print(lad)
     print()
     print("The Snakes are as follows:")
@@ -17,8 +17,8 @@ def play():
     
     print("To roll the die press 1 and to quit press 0")
     
-    p1n=input("Enter ypur name Player1:       ")
-    p2n=input("Enter ypur name Player2:       ")
+    p1n=input("Enter your name Player1:       ")
+    p2n=input("Enter your name Player2:       ")
     
     
     while(p1n!=100 and p2n!=100):
@@ -54,9 +54,9 @@ def play():
             break
     
     if(p1==100):
-        print("Hurray",p1n," you won")
+        print("Yeahix",p1n," You Won")
     if(p2==100):
-        print("Hurray",p2n," you won")
+        print("Yeahix",p2n," You Won")
     
 def ladder(p):
     f=0
