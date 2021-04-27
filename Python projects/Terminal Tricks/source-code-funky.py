@@ -2,7 +2,7 @@ import pyfiglet
 word = pyfiglet.figlet_format("qxresearch",font="alphabet")
 print(word)
 
-```
+"""
 Output:
                                        h
                                        h
@@ -13,4 +13,4 @@ q  q   x  r   e e  s  e e a a r   c    h  h
    qq
 
 
-```
+"""
