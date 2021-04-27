@@ -37,7 +37,7 @@ if sorting_method == '1':
 
     print('total number of passes:', Pass)
 
-    elif sorting_method == '2':
+elif sorting_method == '2':
     position = 0
     Pass = 0
     counter = 1
