@@ -1,6 +1,9 @@
-#!/usr/bin/python3
-import pgzrun
+#!/usr/bin/env python3
 from random import randint # import randint module from random lib
+
+import pgzrun
+
+Actor, keyboard, screen = Actor, keyboard, screen  # noqa: F821 pgzrun magically defines these
 
 WIDTH = 700                 # width of the window
 HEIGHT = 800                # height of the window
