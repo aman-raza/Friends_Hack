@@ -8,11 +8,11 @@ print(Back.RED,"hello qxresearcher")
 
 #to get back to boring B&W: print(Styoe.RESET_ALL)
 
-```
+"""
 All Variaton on Colors: 
 
 Fore: BLACK RED GREEN YELLOW BLUE MAGENTA CYAN WHITE RESET
 Back: BLACK RED GREEN YELLOW BLUE MAGENTA CYAN WHITE RESET
 Style: DIM NORMAL BRIGHT RESET_ALL
   
-```
+"""
