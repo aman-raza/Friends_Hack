@@ -26,6 +26,7 @@ Pull requests should include the following:
 - Detailed information about the commits
 - No low effort pull requests or duplicate programs
 - Place your Code in the appropriate folder with a README and information on the code
+- And do update CONTRIBUTING.md file
 
 
 ### Languages Used Already:
