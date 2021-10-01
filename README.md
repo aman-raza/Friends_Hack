@@ -1,7 +1,6 @@
 
-<p align="center">
-<img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg">
-</p>
+![banner08BLlogo](https://user-images.githubusercontent.com/53443872/135635056-17a405e6-3f31-4f4a-a3c1-e7bf046066ae.png)
+
 
 
 A community repository to allow enthusiasts and beginners add their projects for [@DigitalOcean's HacktoberFest](https://hacktoberfest.digitalocean.com)
