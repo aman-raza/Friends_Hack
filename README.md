@@ -37,6 +37,7 @@ Pull requests should include the following:
 - HTML
 - CSS
 - JavaScript
+- Dart
 
 ## Steps to contribute :
 1. Fork the repository
