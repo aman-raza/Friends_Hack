@@ -16,7 +16,7 @@ This repository allows any Algos to be added! When adding your own Code, place i
 - Pull requests can be made in any GitHub-hosted repositories/projects.
 - You can sign up anytime between October 1 and October 31.
 
-#Sign up [Here](https://hacktoberfest.digitalocean.com)
+# Sign up [Here](https://hacktoberfest.digitalocean.com)
 
 ## Making A Thoughtful Pull Request
 
