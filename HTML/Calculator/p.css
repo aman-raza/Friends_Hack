@@ -1,0 +1,22 @@
+.container{
+	height: 100%;
+	padding: 15px;
+	font-size: 20;
+	font-family: calibri;
+	color: black;
+	
+}
+fieldset {border-radius: 25px;
+	border: 2px solid;}
+legend { font-size: 30; }
+
+body {
+  background-color:powderblue;
+}
+
+input[type=text],input[type=password]{
+	position: center;
+	width: 40%;
+	padding: 5px;
+	background:#a6ed8c;}
+

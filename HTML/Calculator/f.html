@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>RGISTRATION FORM</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="D:\New folder\calculator.js"></script>
+<link rel="stylesheet" type="text/css" href="D:\New folder\p.css"></head>
+<body>
+<form align="center">
+<div class="container">
+<fieldset >
+<legend>CALCULATOR</legend>
+ <div ng-app="calculator" ng-controller="count">
+		<tr>
+			<td><p><br>Enter number 1:</br></p></td>
+		<td><input type="number" size="50" ng-model="a" ></p></td>
+	</tr>
+	<tr>
+		<td><p><br>Enter number 2:</br></p></td>
+		<td><input type="number" ng-model="b" size="50"></p></td>
+	</tr>
+	<tr>
+		<td><p>SELECT OPERATION:</td>
+			<td align="center"><select ng-model="operation">
+		<option>+</option>
+		<option>-</option>
+		<option>*</option>
+		<option>/</option></select></p></td>
+	</tr>
+	<tr>
+		<td><p>TOTAL =</td>
+			<td>{{ result() }}</p></td></div>
+</fieldset>
+</form>
+</body>
+
+<html>

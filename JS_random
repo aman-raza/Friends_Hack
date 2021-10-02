@@ -1,0 +1,23 @@
+#JavaScript Random Integers
+
+Math.floor(Math.random() * 10);     // returns a random integer from 0 to 9
+
+Math.floor(Math.random() * 11);      // returns a random integer from 0 to 10
+
+Math.floor(Math.random() * 100);     // returns a random integer from 0 to 99
+
+Math.floor(Math.random() * 101);     // returns a random integer from 0 to 100
+
+Math.floor(Math.random() * 10) + 1;  // returns a random integer from 1 to 10
+
+Math.floor(Math.random() * 100) + 1; // returns a random integer from 1 to 100
+
+#A Proper Random Function
+
+function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min) ) + min;
+}
+
+function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min + 1) ) + min;
+}
