@@ -1,5 +1,5 @@
 
-![banner08BLlogo](https://user-images.githubusercontent.com/53443872/135635056-17a405e6-3f31-4f4a-a3c1-e7bf046066ae.png)
+<!-- ![banner08BLlogo](https://user-images.githubusercontent.com/53443872/135635056-17a405e6-3f31-4f4a-a3c1-e7bf046066ae.png)
 
 
 
@@ -16,7 +16,7 @@ This repository allows any Algos to be added! When adding your own Code, place i
 - Pull requests can be made in any GitHub-hosted repositories/projects.
 - You can sign up anytime between October 1 and October 31.
 
-## Sign up ## [Here](https://hacktoberfest.digitalocean.com) ##
+## Sign up ## [Here](https://hacktoberfest.digitalocean.com) ## -->
 
 ## Making A Thoughtful Pull Request
 
